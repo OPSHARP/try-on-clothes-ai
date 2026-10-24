@@ -1,0 +1,74 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ / Android Studio / IDE related
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+*privacy.md
+doc/privacy.md
+plans/
+
+# Raw Assets & Local Design Exports
+icon and screen shots/
+
+# Android Keystore & Signing Secrets (CRITICAL)
+**/key.properties
+key.properties
+*.jks
+*.keystore
+upload-keystore.jks
+
+# Google Services & Firebase Project Files
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+.firebaserc
+firebase.json
+firestore.rules
+firestore.indexes.json
+
+# Local Properties & SDK Paths
+local.properties
+**/android/local.properties
+**/android/.gradle/
+**/android/app/.cxx/
+
+# Flutter / Dart / Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+/build/
+/coverage/
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio build outputs
+/android/app/debug
+/android/app/profile
+/android/app/release

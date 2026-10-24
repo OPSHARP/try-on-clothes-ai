@@ -1,0 +1,8 @@
+# Keystore configuration template for release builds.
+# Copy this file to key.properties and replace with your actual values:
+# cp key.properties.example key.properties
+
+storeFile=upload-keystore.jks
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyAlias=upload
+keyPassword=YOUR_KEY_PASSWORD
