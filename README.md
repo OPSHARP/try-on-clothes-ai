@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=33,26,16,10,3,0&height=220&section=header&text=Try%20On%20Clothes%20AI&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%91%97%20AI%20Virtual%20Fitting%20Room%20%7C%20Identity%20Lock%20%26%20Multi-Provider&descAlignY=62&descAlign=50" width="100%" alt="Try On Clothes AI 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/try-on-clothes-ai">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dress.png" width="100" height="100" alt="3D Dress Icon" />
@@ -175,8 +172,4 @@ Output: `build/app/outputs/bundle/release/app-release.aab`
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=33,26,16,10,3,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
